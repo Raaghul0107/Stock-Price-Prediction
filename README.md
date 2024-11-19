@@ -43,8 +43,6 @@ The model predicts the closing stock prices for Tesla (TSLA) with reasonable acc
 The graph below showcases the performance of the LSTM model:
 
 ![image](https://github.com/user-attachments/assets/46b05282-86a7-41cc-847c-04af02fd66b5)
-Blue: Actual Prices
-Orange: Predicted Prices
 
 ## Limitations
 The model doesn't account for external factors such as news, earnings reports, or market conditions.
